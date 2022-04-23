@@ -1,0 +1,25 @@
+04/23/2022 08:56:04 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 08:56:35 -- Hello AZALDO~ --
+04/23/2022 09:51:24 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 09:52:11 -- Hello AZALDO~ --
+04/23/2022 09:56:46 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 09:58:15 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 09:58:27 -- Hello AZALDO~ --
+04/23/2022 09:58:38 -- We are being rate limited. Retrying in 3.40 seconds. Handled under the bucket "958703278907076620:None:/channels/{channel_id}/messages/{message_id}" --
+04/23/2022 10:07:28 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 10:08:27 -- Hello AZALDO~ --
+04/23/2022 10:12:21 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 10:12:40 -- Hello AZALDO~ --
+04/23/2022 10:13:41 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 10:13:49 -- Hello AZALDO~ --
+04/23/2022 10:14:30 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 10:14:39 -- <Message id=967518894380171344 channel=<TextChannel id=958703278907076620 name='general' position=0 nsfw=False news=False category_id=958703278907076618> type=<MessageType.default: 0> author=<User id=899685419384467477 name='AZALDO' discriminator='9346' bot=False> flags=<MessageFlags value=0>>has been deleted --
+04/23/2022 10:14:40 -- <Message id=967518725991436359 channel=<TextChannel id=958703278907076620 name='general' position=0 nsfw=False news=False category_id=958703278907076618> type=<MessageType.default: 0> author=<User id=899685419384467477 name='AZALDO' discriminator='9346' bot=False> flags=<MessageFlags value=0>>has been deleted --
+04/23/2022 10:14:40 -- <Message id=967518701207289896 channel=<TextChannel id=958703278907076620 name='general' position=0 nsfw=False news=False category_id=958703278907076618> type=<MessageType.default: 0> author=<Member id=958701846380294154 name='Bot_tp4' discriminator='7989' bot=True nick=None guild=<Guild id=958703278428938251 name='deAZALDO' shard_id=None chunked=False member_count=3>> flags=<MessageFlags value=0>>has been deleted --
+04/23/2022 10:22:15 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 10:22:17 -- {self.user} has connected to Discord! --
+04/23/2022 10:22:29 -- The{number_of_messages}last messages has been deleted --
+04/23/2022 10:23:21 -- PyNaCl is not installed, voice will NOT be supported --
+04/23/2022 10:23:24 -- Bot_tp4#7989 has connected to Discord! --
+04/23/2022 10:23:54 -- The4last messages has been deleted --
+04/23/2022 10:24:01 -- Hello AZALDO~ --
